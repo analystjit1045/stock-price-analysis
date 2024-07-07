@@ -195,7 +195,7 @@ c) Investor preferences for different types of equity securities
 
 Q22) Stocks reaching these milestones often attract increased attention. This can indicate: 
 
-a) Potential breakout candidates (for 52-week highs)
+a) Potential breakout candidates (for 52-week highs) .These stocks have often been trading within a consistent price range, bouncing between lower price and upper price levels.Investors watch for these candidates because a successful breakout can lead to substantial price movements, offering potential profit opportunities. Breakouts can occur in either direction - upward (bullish) or downward (bearish). Traders look for confirmations such as increased volume, relevant news, or technical indicators to validate the breakout and reduce the risk of false signals.
 
 b) Stocks that might be oversold (for 52-week lows)
 
