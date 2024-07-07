@@ -50,7 +50,8 @@ G) The clustering of several companies at exactly -11.06% is unusual and suggest
 
 H) The presence of companies from regulated sectors (like financial services and energy) suggests that regulatory changes or uncertainties might be a significant factor in the negative performance.
 
-Q5)
+
+Q5) 
 
 
 
