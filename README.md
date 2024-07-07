@@ -31,7 +31,41 @@ C) Companies with high trading values can serve as indicators of the broader eco
 
  D) Favorable economic conditions and government policies have likely played a significant role in boosting the performance of companies in sectors like Metals & Mining and Capital Goods.
 
-E) Healthcare and Capital Goods sectors have multiple representatives in the top 20, indicating strong performance in these areas.
+E) Healthcare and Capital Goods sectors have multiple representatives in the top 20, indicating strong performance in these areas. 
+
+
+Q4) A)  The presence of significant negative returns across multiple companies and sectors suggests a broader market downturn or correction over the past year.The range of negative returns from -42.92% to -11.06% indicates a substantial decline, which could be indicative of a bear market or sector-specific challenges.
+
+B) Aarti Drugs Ltd. shows the most severe decline at -42.92%, suggesting particular challenges in the pharmaceutical or healthcare sector.This could be due to regulatory changes, pricing pressures, or specific product issues.
+
+C) Multiple financial services companies (Aavas Financiers Ltd., Aditya Birla Capital Ltd.) are in the list, indicating potential sector-wide challenges . This could be related to factors such as changes in interest rates, regulatory pressures, or broader economic conditions affecting lending and investment.
+
+D) The presence of Adani Group companies (Adani Green Energy Ltd., Adani Ports and Special Economic Zone Ltd., Adani Transmission Ltd.) suggests challenges in infrastructure and energy sectors. This could be due to regulatory changes, project delays, or financing issues in large-scale infrastructure and energy projects.
+
+E) The list includes a mix of large conglomerates (like Adani Group companies) and smaller, more focused companies (like Aarti Drugs).This suggests that the negative trend is not limited to a particular company size or market capitalization range.
+
+F) The 365-day timeframe indicates that these negative returns are not just short-term fluctuations but represent a more sustained downturn for these companies. It would be valuable to analyze how this trend has developed over the year - whether it was a gradual decline or if there were specific events that caused sharp drops.
+
+G) The clustering of several companies at exactly -11.06% is unusual and suggests either a data anomaly or a specific market event that affected multiple stocks identically.This could be related to index rebalancing, regulatory changes, or other market-wide events that impacted multiple stocks similarly. 
+
+H) The presence of companies from regulated sectors (like financial services and energy) suggests that regulatory changes or uncertainties might be a significant factor in the negative performance.
+
+Q5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
    
 
