@@ -46,7 +46,16 @@ B)Some companies show significant disparities between their 30-day and 365-day p
 
  A) Stocks with high volatility or trading volumes disproportionate to their prices might represent higher-risk investments.
 
-#RECOMMENDATIONS :
+#RECOMMENDATIONS : 
+
+1) Analyzing volatility patterns ,sectorwise performance comparisons and correlation between differfent metrices .
+
+2) Explore the relationship between trading volume and price movements, identify companies consistently outperforming their industries, and track stocks approaching their 52-week highs or lows.
+
+3)  investigate the impact of recent market events on specific sectors, calculate risk-adjusted returns, and create custom scoring systems to rank stocks based on multiple criteria. 
+    
+     
+ 
 
 
 
