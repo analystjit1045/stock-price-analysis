@@ -46,6 +46,9 @@ B)Some companies show significant disparities between their 30-day and 365-day p
 
  A) Stocks with high volatility or trading volumes disproportionate to their prices might represent higher-risk investments.
 
+#RECOMMENDATIONS :
+
+
 
   
 
