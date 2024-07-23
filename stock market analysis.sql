@@ -104,7 +104,7 @@ UNION ALL
 select case when "Last Traded Price" < 100 then 'Under 100'  
      when "Last Traded Price" between  100 and 500 then  '100-500'
         when "Last Traded Price" between 501 and  1000 then  '501-1000'
-        else  'Over 1000' END AS price_range,COUNT(*) AS company_count FROM nifty_500 group by  price_range O price_range ;
+        else  'Over 1000' END AS price_range,COUNT(*) AS company_count FROM nifty_500 group by  price_range ;
 
  
 --Q19) Industries with the most companies in the Nifty 500 --
