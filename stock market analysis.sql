@@ -132,8 +132,11 @@ select "Company Name", "Share Volume" / (("High" + "Low") / 2) as volume_to_avg_
 from  nifty_500 order by  volume_to_avg_price_ratio desc limit  10;      
 
 --Q24) Companies where the current price is closest to the average of their 52-week high and low--
-select  "Company Name", "Last Traded Price",("52 Week High" + "52 Week Low") / 2 as  year_avg_price, abs("Last Traded Price" - (("52 Week High" + "52 Week Low") / 2)) as price_difference
-from  nifty_500 order by  price_difference asc  limit 10 ;   
+select  "Company Name", "Last Traded Price",("52 Week High" + "52 Week Low") / 2 as  year_avg_price, 
+    abs("Last Traded Price" - (("52 Week High" + "52 Week Low") / 2)) as price_difference
+    from  nifty_500 order by  price_difference asc  limit 10 ;   
+
+    
   
 
 
