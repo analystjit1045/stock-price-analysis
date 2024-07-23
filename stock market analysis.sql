@@ -74,8 +74,9 @@ order by "Percentage Change" desc limit 4 ;
 select "Company Name", ("52 Week High" - "52 Week Low") AS price_range from nifty_500 order by  price_range desc limit  10;
 
 --Q13) Companies with the most impactful difference between 365-day and 30-day percentage changes -- 
-select  "Company Name","365 Day Percentage Change","30 Day Percentage Change",abs("365 Day Percentage Change" - "30 Day Percentage Change") as change_difference from  nifty_500
- order by  change_difference desc limit 10;       
+select  "Company Name","365 Day Percentage Change","30 Day Percentage Change",abs("365 Day Percentage Change" - "30 Day Percentage Change") as change_difference from 
+    nifty_500   order by  change_difference desc limit 10;       
+
 
 --Q14) Companies trading close to their 52-week highs (within 5%)-- 
 select "Company Name", "Last Traded Price", "52 Week High",(("52 Week High" - "Last Traded Price") / "52 Week High") * 100 AS percent_from_high
