@@ -48,10 +48,10 @@ FROM nifty_500
 Group by  "Industry" 
 Order by Total_Share_Volume DESC limit 5 ;
 
---Q7) Total Market Value for Each Company (Last Traded Price * Share Volume) --
+--Q7) Top 5 Company which highest Market Value  (Last Traded Price * Share Volume) --
 Select  "Company Name",("Last Traded Price" * "Share Volume") as Market_Value 
 from  nifty_500 
-order by  Market_Value desc ; 
+order by  Market_Value desc limit 5 ; 
 
 --Q8) Companies with a positive percentage change in both 30 Day and 365 Day --
 Select  "Company Name","30 Day Percentage Change","365 Day Percentage Change"
